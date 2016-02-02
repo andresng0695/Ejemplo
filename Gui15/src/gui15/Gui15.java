@@ -11,7 +11,7 @@ import java.awt.event.*;
  *
  * @author Usuario
  */
-
+//hola 
 public class Gui15 extends JFrame {
 Container panel;
 JPanel p1, p2;
